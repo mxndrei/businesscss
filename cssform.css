@@ -1,0 +1,26 @@
+body
+{
+	background-color:#F5F3C1;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    color: #2F0F5D;
+    
+}
+a
+{
+	color: #2F0F5D;
+	text-decoration:none;
+    padding: 10px;
+    background: #FFDCB6 ;
+    border-radius: 18px ;
+}
+a:hover
+{
+	color:#576CBC;
+	font-size:25px;
+}
+form
+{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
